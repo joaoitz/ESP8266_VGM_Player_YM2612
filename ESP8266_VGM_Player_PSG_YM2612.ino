@@ -5,16 +5,6 @@
 
 Adafruit_SI5351 clockgen = Adafruit_SI5351();
 
-//Control bits (on control shift register)
-// SN_WE = QA (bit 0, pin 15)
-// YM_IC = QB (bit 1, pin 1)
-// YM_CS = QC (bit 2, pin 2)
-// YM_WR = QD (bit 3, pin 3)
-// YM_RD = QE (bit 4, pin 4)
-// YM_A0 = QF (bit 5, pin 5)
-// YM_A1 = QG (bit 6, pin 6)
-// NO CONNECT = QH (bit 7, pin 7)
-
 //YM DATA - Shift Register
 const int ymLatch = D0;
 const int ymClock = D1;
