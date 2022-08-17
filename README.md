@@ -6,4 +6,4 @@ Suporte parcial para formato VGM do Genesis/Megadrive
 
 Hardware:
 
-01 - Esp-8266 @160mhz 01 - Adafruit_SI5351 01 - FM Synth YM2612 01 - PSG SN7869 03 - 74HC595
+01 - Esp-8266 @160mhz 01 - Adafruit_SI5351 01 - FM Synth YM2612 01 - PSG SN7869 03 - SHIFT REGISTER 74HC595
